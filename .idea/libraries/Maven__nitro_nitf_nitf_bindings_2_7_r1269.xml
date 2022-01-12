@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: nitro-nitf:nitf-bindings:2.7-r1269">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/nitro-nitf/nitf-bindings/2.7-r1269/nitf-bindings-2.7-r1269.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/nitro-nitf/nitf-bindings/2.7-r1269/nitf-bindings-2.7-r1269-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/nitro-nitf/nitf-bindings/2.7-r1269/nitf-bindings-2.7-r1269-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
